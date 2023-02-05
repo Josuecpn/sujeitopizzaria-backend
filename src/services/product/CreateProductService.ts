@@ -20,7 +20,7 @@ class CreateProductService {
       data: {
         name: name,
         price: price,
-        descrription: description,
+        description: description,
         banner: banner,
         category_id: category_id
       }
